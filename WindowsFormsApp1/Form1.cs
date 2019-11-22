@@ -20,7 +20,6 @@ namespace WindowsFormsApp1
         void test()
         {
             textBox1.Text = "tao test chua duoc";
-            tbTest.Text = 40.ToString();
-        }
+            tbTest.Text = 40.ToString();        
     }
 }

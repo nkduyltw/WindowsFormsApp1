@@ -15,6 +15,12 @@ namespace WindowsFormsApp1
         public Form1()
         {
             InitializeComponent();
+            test();
+        }
+        void test()
+        {
+            textBox1.Text = "tao test chua duoc";
+            tbTest.Text = 40.ToString();
         }
     }
 }
